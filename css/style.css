@@ -45,3 +45,13 @@ nav {
 .container {
   min-height: calc(100vh - 12vh - 58px);
 }
+.search {
+  display: flex;
+  align-items: center;
+}
+.search input {
+  width: 332px;
+  height: 24px;
+  border-radius: 5px;
+  margin: 0px 14px;
+}
